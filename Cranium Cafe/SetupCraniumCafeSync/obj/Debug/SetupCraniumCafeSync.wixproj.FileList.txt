@@ -1,0 +1,9 @@
+E:\Projects\Cranium\trunk\Cranium Cafe\SetupCraniumCafeSync\bin\Debug\SetupCraniumCafeSync.msi
+E:\Projects\Cranium\trunk\Cranium Cafe\SetupCraniumCafeSync\bin\Debug\SetupCraniumCafeSync.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SetupCraniumCafeSync.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupCraniumCafeSync.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupCraniumCafeSync.wixproj.BindBuiltOutputsFileListnull.txt
+obj\Debug\pth9A74AA6FFC10654E00D772E8661AC9AB\_CraniumCafeConfig.wixobj
+obj\Debug\pth9A74AA6FFC10654E00D772E8661AC9AB\_CraniumSync.wixobj
+obj\Debug\StandardUI.wixobj

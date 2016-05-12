@@ -1,0 +1,10 @@
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\CraniumSync.exe.config
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\CraniumCafeSync.Properties.Resources.resources
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\CraniumSync.csproj.GenerateResource.Cache
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\CraniumSync.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\CraniumSync.pdb
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\Interop.Redemption.dll
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\CraniumSync.csproj.ResolveComReference.cache
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\CraniumSync.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\obj\Debug\CraniumSync.pdb

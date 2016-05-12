@@ -1,0 +1,8 @@
+    22/04/2016 15:56:10 -3- 2 Log files found
+    22/04/2016 15:56:10 -3- START TO PROCESS USERS
+    22/04/2016 15:56:10 -3- Found 1 users from config file.
+    22/04/2016 15:56:10 -3- Redemption initialization started.
+    22/04/2016 15:56:10 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:56:12 -2- ***Error Initialising Redemption. :- Error in IMsgServiceAdmin::ConfigureMsgService: MAPI_E_NETWORK_ERROR
+    22/04/2016 15:56:12 -3- END TO PROCESS USERS 
+

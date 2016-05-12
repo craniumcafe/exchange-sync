@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="CraniumCafeConfig.Binaries">
+            <Component Id="cmp4AB7BCD22ADCF73E1800B34AF5101A8A" Guid="{B8E19FE5-A9D1-4A96-90C8-D3B08DA5C447}">
+                <File Id="fil6385F6446EE48E0B46F7CEF0A4948B24" Source="$(var.CraniumCafeConfig.TargetDir)\CraniumCafeConfig.exe" />
+            </Component>
+            <Component Id="cmpDF9A0D7295CEB058C046F7DA30BB7A80" Guid="{6324A477-D01B-4AE1-853D-B868D1AD65B0}">
+                <File Id="fil307CF8D5E2BAE0BA1A4D350B35A57BC2" Source="$(var.CraniumCafeConfig.TargetDir)\CraniumCafeConfig.exe.config" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="CraniumCafeConfig.Binaries">
+            <ComponentRef Id="cmp4AB7BCD22ADCF73E1800B34AF5101A8A" />
+            <ComponentRef Id="cmpDF9A0D7295CEB058C046F7DA30BB7A80" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>

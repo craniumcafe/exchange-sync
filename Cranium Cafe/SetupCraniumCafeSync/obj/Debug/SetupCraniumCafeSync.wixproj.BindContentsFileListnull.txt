@@ -1,0 +1,7 @@
+..\Cranium Sync\Redemption.dll
+..\Cranium Sync\Redemption64.dll
+..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\\CraniumCafeConfig.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\\CraniumSync.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\\CraniumCafeConfig.exe.config
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Sync\bin\Debug\\CraniumSync.exe.config

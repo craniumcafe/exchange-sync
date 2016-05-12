@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="CraniumSync.Binaries">
+            <Component Id="cmpB8DEFCE079340C423F19451C53B66F28" Guid="{5BF08AC3-8101-4B19-A5EB-964A322A6EBF}">
+                <File Id="fil26E05B547832C3D3A2EF6AD73F487436" Source="$(var.CraniumSync.TargetDir)\CraniumSync.exe" />
+            </Component>
+            <Component Id="cmp51626F418E7AB7BC166AD56DEA3F92C2" Guid="{065499A1-B9B9-49EA-90C0-0F0FA9427E66}">
+                <File Id="filD7A7FB980B4DA1DD33140846A3F63D9D" Source="$(var.CraniumSync.TargetDir)\CraniumSync.exe.config" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="CraniumSync.Binaries">
+            <ComponentRef Id="cmpB8DEFCE079340C423F19451C53B66F28" />
+            <ComponentRef Id="cmp51626F418E7AB7BC166AD56DEA3F92C2" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>

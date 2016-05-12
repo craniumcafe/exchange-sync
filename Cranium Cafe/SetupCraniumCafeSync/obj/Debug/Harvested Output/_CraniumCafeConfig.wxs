@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="CraniumCafeConfig.Binaries">
+            <Component Id="com_6B4213BF_9823_40BC_8FAB_6CE5C310ED1D" Guid="{B8E19FE5-A9D1-4A96-90C8-D3B08DA5C447}" Permanent="no" SharedDllRefCount="no" Transitive="no">
+                <File Id="_6B4213BF_9823_40BC_8FAB_6CE5C310ED1D" DiskId="1" Hidden="no" KeyPath="yes" ReadOnly="no" System="no" TrueType="no" Vital="yes" Source="$(var.CraniumCafeConfig.TargetDir)\CraniumCafeConfig.exe" />
+            </Component>
+            <Component Id="cmpDF9A0D7295CEB058C046F7DA30BB7A80" Guid="{6324A477-D01B-4AE1-853D-B868D1AD65B0}" Permanent="no" SharedDllRefCount="no" Transitive="no">
+                <File Id="fil307CF8D5E2BAE0BA1A4D350B35A57BC2" DiskId="1" Hidden="no" KeyPath="yes" ReadOnly="no" System="no" TrueType="no" Vital="yes" Source="$(var.CraniumCafeConfig.TargetDir)\CraniumCafeConfig.exe.config" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="CraniumCafeConfig.Binaries"><ComponentRef Id="com_6B4213BF_9823_40BC_8FAB_6CE5C310ED1D" /><ComponentRef Id="cmpDF9A0D7295CEB058C046F7DA30BB7A80" /></ComponentGroup>
+    </Fragment>
+</Wix>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="CraniumSync.Binaries">
+            <Component Id="com_8899A981_0037_49BD_B775_84CF2C50760B" Guid="{5BF08AC3-8101-4B19-A5EB-964A322A6EBF}" Permanent="no" SharedDllRefCount="no" Transitive="no">
+                <File Id="_8899A981_0037_49BD_B775_84CF2C50760B" DiskId="1" Hidden="no" KeyPath="yes" ReadOnly="no" System="no" TrueType="no" Vital="yes" Source="$(var.CraniumSync.TargetDir)\CraniumSync.exe" />
+            </Component>
+            <Component Id="cmp51626F418E7AB7BC166AD56DEA3F92C2" Guid="{065499A1-B9B9-49EA-90C0-0F0FA9427E66}" Permanent="no" SharedDllRefCount="no" Transitive="no">
+                <File Id="filD7A7FB980B4DA1DD33140846A3F63D9D" DiskId="1" Hidden="no" KeyPath="yes" ReadOnly="no" System="no" TrueType="no" Vital="yes" Source="$(var.CraniumSync.TargetDir)\CraniumSync.exe.config" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="CraniumSync.Binaries"><ComponentRef Id="com_8899A981_0037_49BD_B775_84CF2C50760B" /><ComponentRef Id="cmp51626F418E7AB7BC166AD56DEA3F92C2" /></ComponentGroup>
+    </Fragment>
+</Wix>

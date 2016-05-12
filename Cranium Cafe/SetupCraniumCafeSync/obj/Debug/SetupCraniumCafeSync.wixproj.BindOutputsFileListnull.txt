@@ -1,0 +1,2 @@
+E:\Projects\Cranium\trunk\Cranium Cafe\SetupCraniumCafeSync\bin\Debug\SetupCraniumCafeSync.msi
+E:\Projects\Cranium\trunk\Cranium Cafe\SetupCraniumCafeSync\bin\Debug\SetupCraniumCafeSync.wixpdb

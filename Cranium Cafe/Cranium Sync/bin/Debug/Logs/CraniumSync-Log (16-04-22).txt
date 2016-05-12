@@ -1,0 +1,40 @@
+    22/04/2016 15:21:12 -3- 1 Log files found
+    22/04/2016 15:21:25 -3- START TO PROCESS USERS
+    22/04/2016 15:21:29 -3- Found 1 users from config file.
+    22/04/2016 15:21:30 -3- Redemption initialization started.
+    22/04/2016 15:21:30 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:21:30 -3- Redemption files not found.
+    22/04/2016 15:21:53 -3- Redemption initialization started.
+    22/04/2016 15:21:59 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:22:12 -3- Redemption files not found.
+    22/04/2016 15:22:18 -3- END TO PROCESS USERS 
+
+    22/04/2016 15:23:09 -3- 1 Log files found
+    22/04/2016 15:23:13 -3- START TO PROCESS USERS
+    22/04/2016 15:23:16 -3- Found 1 users from config file.
+    22/04/2016 15:23:21 -3- Redemption initialization started.
+    22/04/2016 15:23:22 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:23:43 -2- ***Error Initialising Redemption. :- Error in IMsgServiceAdmin::ConfigureMsgService: MAPI_E_NETWORK_ERROR
+    22/04/2016 15:23:45 -3- END TO PROCESS USERS 
+
+    22/04/2016 15:25:41 -3- 1 Log files found
+    22/04/2016 15:25:44 -3- START TO PROCESS USERS
+    22/04/2016 15:25:45 -3- Found 1 users from config file.
+    22/04/2016 15:25:45 -3- Redemption initialization started.
+    22/04/2016 15:25:45 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:25:52 -3- Redemption initialized successfully.
+    22/04/2016 15:26:03 -3- START---------  test1@davton.com's sync process
+    22/04/2016 15:26:45 -2- Error in StartExchangeSynchonizer:- Could not resolve in GAL: test1@davton.com
+    22/04/2016 15:34:40 -3- 1 Log files found
+    22/04/2016 15:34:42 -3- START TO PROCESS USERS
+    22/04/2016 15:34:43 -3- Found 1 users from config file.
+    22/04/2016 15:34:43 -3- Redemption initialization started.
+    22/04/2016 15:34:43 -3- Redemption initializationDavton2 TestDavton1
+    22/04/2016 15:34:51 -3- Redemption initialized successfully.
+    22/04/2016 15:34:57 -3- START---------  david@davton.com's sync process
+    22/04/2016 15:36:44 -2- Error in StartExchangeSynchonizer:- IMAPIFolder.OpenProperty(PR_CONTENTS_SYNCHRONIZER) returned MAPI_E_FAILONEPROVIDER
+Synchronization is only supported for the Exchange folders in the online mode.
+    22/04/2016 15:37:25 -3- Last sync time saved sucessfully.
+    22/04/2016 15:37:28 -3- END--------- david@davton.com's sync process
+    22/04/2016 15:37:32 -3- END TO PROCESS USERS 
+

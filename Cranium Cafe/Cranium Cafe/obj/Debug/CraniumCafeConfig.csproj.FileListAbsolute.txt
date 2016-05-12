@@ -1,0 +1,13 @@
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.frmConfiguration.resources
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.Presentation.frmUserDetails.resources
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.Properties.Resources.resources
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.csproj.GenerateResource.Cache
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\CraniumCafeConfig.exe.config
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\CraniumCafeConfig.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\CraniumCafeConfig.pdb
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\Interop.Redemption.dll
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.csproj.ResolveComReference.cache
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.exe
+E:\Projects\Cranium\trunk\Cranium Cafe\Cranium Cafe\obj\Debug\CraniumCafeConfig.pdb
